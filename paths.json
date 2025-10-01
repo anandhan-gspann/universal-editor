@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ue-eds-start/:/",
-    "/content/ue-eds-start/configuration:/.helix/config.json",
-    "/content/ue-eds-start/metadata:/metadata.json"
+    "/content/ue-eds-start-anand/:/",
+    "/content/ue-eds-start-anand/configuration:/.helix/config.json",
+    "/content/ue-eds-start-anand/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ue-eds-start/"
+    "/content/ue-eds-start-anand/"
   ]
 }
